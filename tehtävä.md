@@ -8,3 +8,7 @@ myös artikkelin Partanen 2025: Harjoitus 5: Nimekäs: a kohta pitää tiivistä
 a
 tein vaihtoehtotehtävän
 aloitin asentamalla virtuaalikoneelle debianin käyttämällä tero karvisen ohjetta Install Debian on Virtualbox - Updated 2024, loin myös sudo käyttäjän ja asensin palomuurin. seuraavaksi asensin apache2 komennolla sudo apt-get install apache2
+
+
+Lähteet
+https://terokarvinen.com/2021/install-debian-on-virtualbox/
